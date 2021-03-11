@@ -4,3 +4,5 @@ Jonathan de Sá Lemes, JSL Soluções LTDA – Consultoria em arquitetura e dese
 Alexandre Nobuharu Sato, Cia. do Metropolitano de São Paulo, Ribirão Pires - SP em 11 de março de 2021.
 
 Customizar templates do chatbot CSC - Centro de Serviços Compartilhados
+
+URL do bot de apresentação com 2 fluxos de demonstração:                                        https://bot-metrosp.jslsolucoes.com
